@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				174,
+				-316
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tanisanegg idle"
+		},
+		{
+			"offsets": [
+				180,
+				-317
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tanisanegg left"
+		},
+		{
+			"offsets": [
+				169,
+				-317
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tanisanegg right"
+		},
+		{
+			"offsets": [
+				174,
+				-319
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tanisanegg up"
+		},
+		{
+			"offsets": [
+				174,
+				-315
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tanisanegg down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/tanisanegg",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon_tan",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		134,
+		118
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

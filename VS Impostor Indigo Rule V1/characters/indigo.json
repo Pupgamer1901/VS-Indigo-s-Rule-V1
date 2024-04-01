@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-120,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "indijoke idle"
+		},
+		{
+			"offsets": [
+				-120,
+				-261
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "indijoke left"
+		},
+		{
+			"offsets": [
+				-120,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "indijoke right"
+		},
+		{
+			"offsets": [
+				-120,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "indijoke down"
+		},
+		{
+			"offsets": [
+				-118,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "indijoke up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/indijoke",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon_indigo",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		27,
+		171
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

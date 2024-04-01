@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				110,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "jlack right"
+		},
+		{
+			"offsets": [
+				109,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "jlack idle"
+		},
+		{
+			"offsets": [
+				110,
+				-131
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "jlack left"
+		},
+		{
+			"offsets": [
+				110,
+				-130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "jlack down"
+		},
+		{
+			"offsets": [
+				109,
+				-129
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "jlack up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/jlack",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-black",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		28,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5,
+	"_editor_isPlayer": false
+}

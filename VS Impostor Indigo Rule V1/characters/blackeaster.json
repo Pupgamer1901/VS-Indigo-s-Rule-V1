@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				161,
+				-196
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "blackpissed idle"
+		},
+		{
+			"offsets": [
+				399,
+				-186
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "blackpissed right"
+		},
+		{
+			"offsets": [
+				160,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "blackpissed left"
+		},
+		{
+			"offsets": [
+				250,
+				-224
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "blackpissed down"
+		},
+		{
+			"offsets": [
+				275,
+				-192
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "blackpissed up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/blackpissed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-black",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		28,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.7,
+	"_editor_isPlayer": true
+}

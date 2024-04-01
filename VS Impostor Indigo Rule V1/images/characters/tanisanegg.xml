@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tanisanegg.png">
+<SubTexture name="tanisanegg idle0000" x="466" y="0" width="457" height="359" frameX="-12" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0001" x="466" y="0" width="457" height="359" frameX="-12" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0002" x="1392" y="0" width="472" height="353" frameX="-6" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0003" x="1392" y="0" width="472" height="353" frameX="-6" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0004" x="1392" y="353" width="463" height="353" frameX="-3" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0005" x="1392" y="353" width="463" height="353" frameX="-3" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0006" x="0" y="360" width="469" height="358" frameX="-6" frameY="-2" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0007" x="0" y="360" width="469" height="358" frameX="-6" frameY="-2" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0008" x="923" y="358" width="466" height="354" frameX="-6" frameY="-2" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0009" x="923" y="358" width="466" height="354" frameX="-6" frameY="-2" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0010" x="0" y="360" width="469" height="358" frameX="-6" frameY="-2" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0011" x="0" y="360" width="469" height="358" frameX="-6" frameY="-2" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0012" x="923" y="0" width="469" height="358" frameX="-6" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0013" x="923" y="0" width="469" height="358" frameX="-6" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0014" x="0" y="1076" width="478" height="353" frameX="0" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0015" x="0" y="1076" width="478" height="353" frameX="0" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0016" x="0" y="1429" width="472" height="349" frameX="-3" frameY="-11" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg idle0017" x="0" y="1429" width="472" height="349" frameX="-3" frameY="-11" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg down0000" x="1392" y="706" width="460" height="353" frameX="-18" frameY="-4" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg down0001" x="1392" y="706" width="460" height="353" frameX="-18" frameY="-4" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg down0002" x="472" y="1429" width="469" height="348" frameX="-3" frameY="-8" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg down0003" x="472" y="1429" width="469" height="348" frameX="-3" frameY="-8" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg down0004" x="472" y="718" width="478" height="357" frameX="0" frameY="-3" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg down0005" x="472" y="718" width="478" height="357" frameX="0" frameY="-3" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg left0000" x="478" y="1076" width="475" height="352" frameX="-3" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg left0001" x="478" y="1076" width="475" height="352" frameX="-3" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg left0002" x="941" y="1429" width="475" height="348" frameX="-3" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg left0003" x="941" y="1429" width="475" height="348" frameX="-3" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg left0004" x="1864" y="694" width="469" height="345" frameX="-3" frameY="-12" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg left0005" x="1864" y="694" width="469" height="345" frameX="-3" frameY="-12" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg right0000" x="1864" y="348" width="472" height="346" frameX="-3" frameY="-3" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg right0001" x="1864" y="348" width="472" height="346" frameX="-3" frameY="-3" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg right0002" x="1864" y="0" width="478" height="348" frameX="0" frameY="-11" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg right0003" x="1864" y="0" width="478" height="348" frameX="0" frameY="-11" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg right0004" x="1864" y="1039" width="469" height="342" frameX="-3" frameY="-11" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg right0005" x="1864" y="1039" width="469" height="342" frameX="-3" frameY="-11" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg up0000" x="0" y="0" width="466" height="360" frameX="-12" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg up0001" x="0" y="0" width="466" height="360" frameX="-12" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg up0002" x="0" y="718" width="472" height="358" frameX="-3" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg up0003" x="0" y="718" width="472" height="358" frameX="-3" frameY="0" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg up0004" x="953" y="1076" width="466" height="351" frameX="-9" frameY="-4" frameWidth="480" frameHeight="360" />
+<SubTexture name="tanisanegg up0005" x="953" y="1076" width="466" height="351" frameX="-9" frameY="-4" frameWidth="480" frameHeight="360" />
+</TextureAtlas>

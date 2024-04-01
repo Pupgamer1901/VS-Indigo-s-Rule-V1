@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jlack.png">
+<SubTexture name="jlack idle0000" x="1407" y="711" width="475" height="354" frameX="-3" frameY="-6" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack idle0001" x="935" y="0" width="472" height="357" frameX="-3" frameY="-3" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack idle0002" x="0" y="718" width="478" height="357" frameX="0" frameY="-3" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack idle0003" x="1407" y="356" width="469" height="355" frameX="-9" frameY="-5" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack idle0004" x="478" y="718" width="478" height="356" frameX="0" frameY="-4" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack idle0005" x="469" y="359" width="460" height="333" frameX="0" frameY="-27" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack idle0006" x="0" y="0" width="463" height="359" frameX="-12" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack right0000" x="935" y="357" width="472" height="341" frameX="-3" frameY="-19" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack left0000" x="1407" y="0" width="475" height="356" frameX="-3" frameY="-4" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack up0000" x="463" y="0" width="472" height="359" frameX="-6" frameY="-1" frameWidth="480" frameHeight="360" />
+<SubTexture name="jlack down0000" x="0" y="359" width="469" height="359" frameX="-9" frameY="-1" frameWidth="480" frameHeight="360" />
+</TextureAtlas>
